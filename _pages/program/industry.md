@@ -7,6 +7,4 @@ sidebar:
   nav: "program"
 ---
 
-{% for paper in site.data.papers_industry %}
-  - **{{ paper.title }}**<br>*{{ paper.authors }}*
-{% endfor %}
+Coming soon!

@@ -18,11 +18,8 @@ main:
   - title: "Committees"
     url: /organization/
 
-  - title: "Contact"
-    url: /contact/
-
 program:
-  - title: "Programs"
+  - title: "Program Details"
     children:
       - title: "Conference Overview"
         url: /program/
@@ -35,14 +32,12 @@ program:
     children:
       - title: "Keynotes"
         url: /program/keynotes/
-      - title: "Social Event"
-        url: /program/social_event/
       - title: "Panel"
         url: /program/panel/
       - title: "Welcome Reception"
         url: /program/reception/
-      - title: "Birds-of-a-Feather and Affinity Group"
-        url: /program/bof/
+      - title: "Social Event"
+        url: /program/social/
 
   - title: "Accepted Papers"
     children:
@@ -54,23 +49,6 @@ program:
         url: /program/industry/
       - title: "System Demonstrations"
         url: /program/demo/
-      - title: "CL Papers"
-        url: /program/cl_papers/
-      - title: "TACL Papers"
-        url: /program/tacl_papers/
-      - title: "Student Research Workshop"
-        url: /program/srw_papers/
-
-  - title: "Awards"
-    children:
-      - title: "Best Papers"
-        url: /program/best_papers/
-      - title: "Outstanding Reviewers"
-        url: /program/outstanding_reviewers/
-      - title: "Outstanding Area Chairs"
-        url: /program/outstanding_acs/
-      - title: "Outstanding Senior Area Chairs"
-        url: /program/outstanding_sacs/
 
 calls:
   - title: "Calls"
@@ -79,8 +57,6 @@ calls:
         url: /calls/main_conference_papers/
       - title: "Industry Track Papers"
         url: /calls/industry_track/
-      - title: "Student Research Workshop Papers"
-        url: /calls/student_research_workshop/
       - title: "System Demonstrations"
         url: /calls/system_demonstration/
       - title: "Shared Interest and Affinity Group"
@@ -89,5 +65,3 @@ calls:
         url: /calls/volunteers/
       - title: "Diversity and Inclusion Subsidies"
         url: /calls/di_subsidies/
-      - title: "Virtual Subsidies"
-        url: /calls/virtual_subsidies/

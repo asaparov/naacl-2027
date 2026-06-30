@@ -20,16 +20,16 @@ livereload               : true
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ACL 2026"
+title                    : "NAACL 2027"
 title_separator          : "-"
 #subtitle                 : # site tagline that appears below site title in masthead
 name                     : "acl"
-description              : "Official website for the 64th Annual Meeting of the Association for Computational Linguistics"
+description              : "Official website for the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2026" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "acl-org/naacl-2027" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/acl-plain-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -39,7 +39,7 @@ enable_copy_code_button  : true # true, false (default)
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "ACL2026" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "NAACL2027" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   #discourse:
   #  server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   #facebook:
@@ -146,16 +146,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/aclmeeting
+      url: https://twitter.com/naaclmeeting
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
-      url: https://bsky.app/profile/aclmeeting.bsky.social
+      url: https://bsky.app/profile/naaclmeeting.bsky.social
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/acl-2026
+      url: https://github.com/acl-org/naacl-2027
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
