@@ -1,4 +1,4 @@
-# ACL 2026 official website
+# NAACL 2027 official website
 
 This is the code for the official website for the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2027), based on the code for [ACL 2026](https://github.com/acl-org/acl-2026/), the following is the configuration details.
 
