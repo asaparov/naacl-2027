@@ -1,6 +1,6 @@
 # ACL 2026 official website
 
-This is the code for the official website for the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2027), based on the code for [ACL 2026](https://github.com/acl-org/acl-2026/), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
